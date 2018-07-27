@@ -21,3 +21,4 @@ class Ideone
 		    	 	System.out.println("Negative");
 		    	 }
 	}
+}
