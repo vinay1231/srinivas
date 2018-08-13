@@ -14,7 +14,7 @@ class Ideone
 
 	{
 
-		Scanner h = new Scanner (System.in);
+	Scanner h = new Scanner (System.in);
 
 		int n = h.nextInt();
 
